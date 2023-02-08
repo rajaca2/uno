@@ -1,0 +1,30 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X31eNgd2O4KKOuNYCF0iE0a78mg1bit4KHai89tvYb-rf
+#EXTINF:-1 xui-id="48563" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3xzsdxdyhw5ZWUzM1wB6u6IAHGJ6RNYhbvliNaNfw0xV
+#EXTINF:-1 xui-id="48503" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8dbd78e23ee5795fa914ea4ad6c91324.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1 FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3xzsdxdyhw5ZWUzM1wB6u6KuINMqheUoW6CW_vePmcnY
+#EXTINF:-1 xui-id="48502" tvg-id="LALIGA1" tvg-name="|ES| MOVISTAR LA LIGA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/0ff7ae3ad722402663d8d6fb0252dd02.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3xzsdxdyhw5ZWUzM1wB6u6KG2CRl2cXq4PfzLnNi8Lwr
+#EXTINF:-1 xui-id="48505" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 2 FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3xzsdxdyhw5ZWUzM1wB6u6Li-KHFyGAndYm1Xv8rUlgs
+#EXTINF:-1 xui-id="48504" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 2
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3xzsdxdyhw5ZWUzM1wB6u6JSH_v83gYFmGLffyCkCBLZ
+#EXTINF:-1 xui-id="48565" tvg-id="MVLIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/cc90d4b099ab89bfe675e27bd1b13245.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 3 FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3xzsdxdyhw5ZWUzM1wB6u6IHscmPmYfqFkxrDiODwXxo
+#EXTINF:-1 xui-id="109341" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X33_s3st1a1D3MCTSPVa35t-ewijwix0SQKxWnCGGUsIz
+#EXTINF:-1 xui-id="109573" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK HD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK HD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X33_s3st1a1D3MCTSPVa35t-6KFPfXPtG29I-noIAm_BZ
+#EXTINF:-1 xui-id="109342" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/MwmqKeEBUbc3XDR_7eL7Of48lUvqbTsaYNBN6JzQAV_XoK_sg_iDAriTgcwtiB2h6Fy3qsRSvlJ_qwmY1hW6AhPVTs9O28mJKB_JoBbSbPo5vIFbvulGEwJwOXPLDG_H.jpeg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK 1 FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X33_s3st1a1D3MCTSPVa35t-DNmyyVbcDlilNgc03l4DX
+#EXTINF:-1 xui-id="110590" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 2 FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK 2 FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3ySWe9WFQAamlhtyqbw6sPWol_8NzR6LQwOUwc0VQblN
+#EXTINF:-1 xui-id="110589" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 2 SD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK 2 SD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3ySWe9WFQAamlhtyqbw6sPXjIZEYvis8lKtqM09ZjnRs
+#EXTINF:-1 xui-id="110591" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 3 FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK 3 FHD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3ySWe9WFQAamlhtyqbw6sPVrviUIZGruyFYTygjRQq8r
+#EXTINF:-1 xui-id="110592" tvg-id="" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK 3 SD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LALIGA SMARTBANK 3 SD
+http://dx.tvdev.club:8080/play/GHlfNGOg5Vtwgea4562X3ySWe9WFQAamlhtyqbw6sPU7alSJhUgP0woDxSZDgQ8x
